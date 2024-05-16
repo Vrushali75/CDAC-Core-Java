@@ -1,0 +1,6 @@
+This is Demo text file
+Lets see if append works!
+
+Lets see if DataInput and output stream works?!
+
+UTF
